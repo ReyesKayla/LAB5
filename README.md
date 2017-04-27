@@ -1,3 +1,2 @@
-#Laboratory Activity 5
-
+# TLE 9 Web Design Class Repository
 Anatomy of CSS Rule
